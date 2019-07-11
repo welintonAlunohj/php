@@ -1,6 +1,6 @@
 <?php
 
- echo"Olá mundo, eu sou Welinton eu mando!";
- echo "Obedecam";
+ echo"Olá mundo, eu sou Welinto muito bem!";
+ echo "fizeram certo";
 
 ?>
